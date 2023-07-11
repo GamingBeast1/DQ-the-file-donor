@@ -6,18 +6,16 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/creatorbeatz'>Jᴏᴇʟ Kᴜʀɪᴀɴ Bɪᴊᴜ</a>
-✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
-✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
-✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
-✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://app.koyeb.com/'>Kᴏʏᴇʙ</a>
-✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.7.1 [ Sᴛᴀʙʟᴇ ]</b>"""
+⎔𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛: <a href='https://t.me/Moviessoft'>彡Eᴋᴀᴍᴘʀᴇᴇᴛ✯Sɪɴɢʜ</a>
+⎔ 𝙻𝚒𝚋𝚛𝚊𝚛𝚢: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
+⎔ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
+⎔ 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
+⎔ 𝙱𝚘𝚝 𝚜𝚎𝚛𝚟𝚎𝚛: <a href='https://www.heroku.com'>Hᴇʀᴏᴋᴜ</a>
+⎔ 𝙱𝚞𝚒𝚕𝚍 𝚂𝚝𝚊𝚝𝚞𝚜: v2.7.1 [ Sᴛᴀʙʟᴇ ]</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
-- ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-- ꜱᴏᴜʀᴄᴇ - <a href="https://github.com/Joelkb/DQ-The-File-Donor">ʜᴇʀᴇ</a>
-Dᴇᴠᴇʟᴏᴘᴇʀ:
-- <a href="https://t.me/creatorbeatz">Jᴏᴇʟ ᠰ TɢX</a></b>"""
+▱ ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴄʟᴏsᴇᴅ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
+▱ Dᴍ <a href='https://t.me/Moviessoft'> ʜᴇʀᴇ <a> ᴛᴏ ʙᴜʏ
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -146,11 +144,11 @@ Nᴀᴍᴇ - {}"""
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
     OWNER_INFO = """
-<b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
+<b> ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : ᴊᴏᴇʟ ᴋᴜʀɪᴀɴ ʙɪᴊᴜ
+• ꜰᴜʟʟ ɴᴀᴍᴇ : Ekampreet Singh
 • ᴜꜱᴇʀɴᴀᴍᴇ : @creatorbeatz
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/creatorbeatz'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ᴅᴍ ʟɪɴᴋ : <a href='t.me/Moviessoft'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
@@ -191,26 +189,34 @@ Nᴀᴍᴇ - {}"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
-
 <b>
-╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/DQ_The_File_Donor_Theme">Tᴏᴜᴄʜ</a>
-╰─────── • ◆ • ───────╯
-
-=========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @DQ_The_File_Donor_Bot_Updates
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @DQ_The_File_Donor_Support
-=========== • ✠ • ===========</b>"""
+❐ File name:- {file_name}
+❐ File size:- {file_size}
+――――――――――――――――――
+<b>
+⬜ Movies Search Group:- @MoviesGalaxy120
+⬜ Channel:- @MoviesGalaxy01
+</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
 IMDb Data:
 
-🏷 Title: <a href={url}>{title}</a>
-🎭 Genres: {genres}
-📆 Year: <a href={url}/releaseinfo>{year}</a>
-🌟 Rating: <a href={url}/ratings>{rating}</a> / 10</b>"""
+<b>🏷 Title</b>: <a href={url}>{title}</a>
+<b>🎭 Genres</b>: {genres}
+<b>📆 Year</b>: <a href={url}/releaseinfo>{year}</a>
+<b>🌟 Rating</b>: <a href={url}/ratings>{rating}</a>
+<b>☀️ Languages</b> : <code>{languages}</code>
+<b>👨‍💼 Dɪʀᴇᴄᴛᴏʀ</b>: {director}
+<b>👨🏻‍🦱 Pʀᴏᴅᴜᴄᴇʀ</b>: {producer}
+<b>📑 wʀɪᴛᴇʀ</b>: {writer}
+<b>📀 RunTime</b>: {runtime} Minutes
+<b>📆 Release Info</b> : {release_date}
+<b>🎛 Countries</b> : <code>{countries}</code>
+<b>📓 Sᴛᴏʀy</b> : <code>{plot}</code>
+
+
+<b>🍀Requested by🍀</b> : {"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
