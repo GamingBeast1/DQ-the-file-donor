@@ -6,7 +6,7 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-⎔𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛: <a href='https://t.me/Moviessoft'>彡Eᴋᴀᴍᴘʀᴇᴇᴛ✯Sɪɴɢʜ</a>
+⎔𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛: <a href='https://t.me/Ekampreet3ingh'>彡Eᴋᴀᴍᴘʀᴇᴇᴛ✯Sɪɴɢʜ</a>
 ⎔ 𝙻𝚒𝚋𝚛𝚊𝚛𝚢: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 ⎔ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 ⎔ 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
@@ -15,7 +15,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 ▱ ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴄʟᴏsᴇᴅ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-▱ Dᴍ <a href='https://t.me/Moviessoft'> ʜᴇʀᴇ <a> ᴛᴏ ʙᴜʏ
+▱ Dᴍ <a href='https://t.me/Ekampreet3ingh'> ʜᴇʀᴇ <a> ᴛᴏ ʙᴜʏ
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -147,7 +147,7 @@ Nᴀᴍᴇ - {}"""
 <b> ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : Ekampreet Singh
-• ᴜꜱᴇʀɴᴀᴍᴇ : @creatorbeatz
+• ᴜꜱᴇʀɴᴀᴍᴇ : @Ekampreet3ingh
 • ᴅᴍ ʟɪɴᴋ : <a href='t.me/Moviessoft'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
